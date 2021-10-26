@@ -1,4 +1,4 @@
-Hi, I’m Ibrahim Aslan. I work in Turk Telekom as an assistant engineer at the Fixed Networks Inovasion and Test Center department in Turkey.
+Hi, I’m Ibrahim Aslan. I am working in Turk Telekom as an assistant engineer at the Fixed Networks Inovasion and Test Center department in Turkey.
 I am interested in data science and web frameworks.
 
 Here is the early release of my website which uses artificial neural network algorithm to predict the likelihood of diabet.
